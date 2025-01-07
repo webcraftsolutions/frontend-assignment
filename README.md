@@ -48,13 +48,5 @@ This is a simple To-Do List application built using JavaScript. It allows users 
 
 
 
-## Installation
-
-Clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/yourusername/student-todo-list.git
-cd student-todo-list
-npm install
-npm start 
-
+## License
+- This project is licensed under the MIT License. See the LICENSE file for more details.
